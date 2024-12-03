@@ -1,0 +1,28 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.title {
+    font-size: 2rem;
+    color: #dccccc;
+}
+
+.content {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    line-height: 1.6;
+    color: #56d3d3;
+}
+
+.backLink {
+    display: inline-block;
+    margin-top: 20px;
+    color: #dcbd23;
+    text-decoration: none;
+}
+
+.backLink:hover {
+    text-decoration: underline;
+}

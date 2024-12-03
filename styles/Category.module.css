@@ -1,0 +1,35 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.title {
+    font-size: 2rem;
+    color: #ebe1e1;
+}
+
+.postList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.postItem {
+    margin: 10px 0;
+}
+
+.link {
+    text-decoration: none;
+    color: #0070f3;
+}
+
+.backLink {
+    display: inline-block;
+    margin-top: 20px;
+    color: #dcbd23;
+    text-decoration: none;
+}
+
+.backLink:hover {
+    text-decoration: underline;
+}
