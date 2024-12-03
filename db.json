@@ -1,0 +1,210 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "name": "Technology"
+        },
+        {
+            "id": "2",
+            "name": "Culture"
+        },
+        {
+            "id": "3",
+            "name": "Sports"
+        },
+        {
+            "id": "4",
+            "name": "Health"
+        },
+        {
+            "id": "5",
+            "name": "Travel"
+        },
+        {
+            "id": "6",
+            "name": "Science"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "The Rise of AI in Everyday Life",
+            "categoryId": "1",
+            "content": "Artificial Intelligence is revolutionizing industries from healthcare to finance. Learn how AI is becoming a part of everyday life and what it means for the future."
+        },
+        {
+            "id": 2,
+            "title": "Top 5 Programming Languages in 2024",
+            "categoryId": "1",
+            "content": "Discover the top 5 programming languages to learn in 2024, including Python, JavaScript, and more, and how they can boost your career in tech."
+        },
+        {
+            "id": 3,
+            "title": "How Quantum Computing Will Change the Future",
+            "categoryId": "1",
+            "content": "Quantum computing is no longer a distant dream. Explore how it will transform data processing, encryption, and problem-solving in the next decade."
+        },
+        {
+            "id": 4,
+            "title": "Cybersecurity Trends: Staying Safe in the Digital Age",
+            "categoryId": "1",
+            "content": "Cybersecurity is critical in today’s digital age. Learn about the latest trends and how to protect yourself from cyber threats."
+        },
+        {
+            "id": 5,
+            "title": "The Impact of 5G Technology on Connectivity",
+            "categoryId": "1",
+            "content": "With 5G technology rolling out globally, find out how it’s enhancing connectivity, enabling smart cities, and impacting everyday communication."
+        },
+        {
+            "id": 6,
+            "title": "Exploring Ancient Cultures of the World",
+            "categoryId": "2",
+            "content": "Ancient cultures like the Egyptians, Mayans, and Greeks have left a lasting impact on modern society. Explore their achievements and cultural practices."
+        },
+        {
+            "id": 7,
+            "title": "The Role of Art in Modern Society",
+            "categoryId": "2",
+            "content": "Art plays a vital role in modern society by addressing social issues and providing a medium for self-expression. Discover its importance today."
+        },
+        {
+            "id": 8,
+            "title": "How Language Shapes Cultural Identity",
+            "categoryId": "2",
+            "content": "Language is more than just communication—it shapes cultural identity. Learn how languages influence the way we think and interact."
+        },
+        {
+            "id": 9,
+            "title": "Traditional Festivals You Should Experience",
+            "categoryId": "2",
+            "content": "Experience the most vibrant traditional festivals around the world, from Carnival in Brazil to Diwali in India."
+        },
+        {
+            "id": 10,
+            "title": "The Evolution of Music Through the Ages",
+            "categoryId": "2",
+            "content": "Music has evolved from ancient melodies to modern genres. Explore how music reflects cultural changes and connects people globally."
+        },
+        {
+            "id": 11,
+            "title": "10 Greatest Moments in Sports History",
+            "categoryId": "3",
+            "content": "Relive the greatest moments in sports history, from record-breaking performances to unforgettable championship wins."
+        },
+        {
+            "id": 12,
+            "title": "How to Stay Fit Without a Gym",
+            "categoryId": "3",
+            "content": "No gym? No problem! Discover simple exercises that you can do at home to stay fit and healthy."
+        },
+        {
+            "id": 13,
+            "title": "The Science Behind Athletic Performance",
+            "categoryId": "3",
+            "content": "Athletic performance is driven by science. Learn about the biomechanics, nutrition, and psychology that help athletes excel."
+        },
+        {
+            "id": 14,
+            "title": "The Influence of Sports on Society and Culture",
+            "categoryId": "3",
+            "content": "Sports influence society by fostering teamwork, discipline, and community spirit. Explore their broader impact on culture."
+        },
+        {
+            "id": 15,
+            "title": "Top 10 Most Inspiring Athletes of All Time",
+            "categoryId": "3",
+            "content": "From Muhammad Ali to Serena Williams, meet the top 10 most inspiring athletes who have left an indelible mark on their sports and beyond."
+        },
+        {
+            "id": 16,
+            "title": "The Importance of Mental Health in Daily Life",
+            "categoryId": "4",
+            "content": "Mental health is essential in today’s fast-paced world. Discover tips and strategies to maintain your mental well-being."
+        },
+        {
+            "id": 17,
+            "title": "Superfoods to Boost Your Health in 2024",
+            "categoryId": "4",
+            "content": "Superfoods like blueberries, kale, and quinoa can boost your health. Learn how to incorporate them into your diet for maximum benefit."
+        },
+        {
+            "id": 18,
+            "title": "10 Simple Exercises for a Healthy Lifestyle",
+            "categoryId": "4",
+            "content": "Stay fit with these 10 simple exercises that you can do anytime, anywhere, without any equipment."
+        },
+        {
+            "id": 19,
+            "title": "The Benefits of Mindfulness and Meditation",
+            "categoryId": "4",
+            "content": "Mindfulness and meditation can improve focus, reduce stress, and enhance overall well-being. Learn how to start your practice today."
+        },
+        {
+            "id": 20,
+            "title": "How Sleep Affects Your Overall Health",
+            "categoryId": "4",
+            "content": "Sleep is essential for good health. Discover how it impacts your physical and mental well-being and tips for improving your sleep quality."
+        },
+        {
+            "id": 21,
+            "title": "Top 5 Destinations to Visit in 2024",
+            "categoryId": "5",
+            "content": "Planning your next trip? Check out these top 5 must-visit destinations for 2024, from exotic beaches to bustling cities."
+        },
+        {
+            "id": 22,
+            "title": "How to Travel on a Budget Without Sacrificing Fun",
+            "categoryId": "5",
+            "content": "Traveling on a budget doesn’t mean missing out on experiences. Learn how to make the most of your trip without overspending."
+        },
+        {
+            "id": 23,
+            "title": "Hidden Gems: Underrated Travel Destinations",
+            "categoryId": "5",
+            "content": "Looking for hidden gems? Explore underrated travel destinations that offer unique experiences away from the crowds."
+        },
+        {
+            "id": 24,
+            "title": "The Ultimate Guide to Solo Travel",
+            "categoryId": "5",
+            "content": "Solo travel is a rewarding experience. Discover tips for staying safe, making friends, and enjoying the journey."
+        },
+        {
+            "id": 25,
+            "title": "Sustainable Travel: How to Explore Responsibly",
+            "categoryId": "5",
+            "content": "Sustainable travel is the future. Learn how to minimize your environmental impact while exploring the world."
+        },
+        {
+            "id": 26,
+            "title": "The Latest Advancements in Space Exploration",
+            "categoryId": "6",
+            "content": "Space exploration is advancing rapidly, with new missions to Mars and beyond. Discover what’s next for humanity in the cosmos."
+        },
+        {
+            "id": 27,
+            "title": "How Renewable Energy Is Transforming the World",
+            "categoryId": "6",
+            "content": "Renewable energy sources like solar and wind are transforming the global energy landscape. Learn how they’re shaping a sustainable future."
+        },
+        {
+            "id": 28,
+            "title": "The Fascinating World of Marine Biology",
+            "categoryId": "6",
+            "content": "Marine biology uncovers the mysteries of the ocean. Explore the fascinating world of marine life and its importance to our ecosystem."
+        },
+        {
+            "id": 29,
+            "title": "The Role of Genetics in Modern Medicine",
+            "categoryId": "6",
+            "content": "Genetics is unlocking new possibilities in medicine, from personalized treatments to gene editing. Learn how it’s changing healthcare."
+        },
+        {
+            "id": 30,
+            "title": "The Impact of Climate Change on the Planet",
+            "categoryId": "6",
+            "content": "Climate change is one of the biggest challenges of our time. Understand its impact on the planet and what we can do to mitigate its effects."
+        }
+    ]
+}
